@@ -46,4 +46,4 @@ steps:
     azureSubscription: 'Microsoft Partner Network(eeb9dfdd-9c17-44c3-a4a0-7529399ce200)'
     appType: 'webApp'
     WebAppName: 'testlogin2'
-    packageForLinux: '$(System.ArtifactsDirectory)/**/TaskWebApp.zip'
+    packageForLinux: '$(System.ArtifactsDirectory)/**/TaskService.zip'
